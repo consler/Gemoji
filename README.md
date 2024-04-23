@@ -1,9 +1,15 @@
 # Gemoji
 
-Gemoji is bascally a game where you have to you use console to play.
+Gemoji is bascally a game that you run in your console
 
-Type(and then enter) W, A, S, D for up, left, down, right.
+HOW IT WORKS
 
-In code you can change where playes spawns, sizes of the map, skins and level.(Orientate by comments there)
+Type(then enter) W, A, S, D for up, left, down, right.
 
-Commands: tp(a,b) - teleports you to a b cords stop - stops the game and outputs your score score- outputs score step - shows the amount of steps/commands you made score+ - cheat, supposed to give you more points but doesnt work yet
+In the script you can change where playes spawns, the size of the map, skins(emojis) and level.(Everything is commented)
+
+Commands: tp(x,y) - teleports you to a b cords 
+stop - stops the game and outputs your score 
+score- outputs your current score 
+step - shows the amount of steps/commands you made 
+score+(S) - sets your score to S
